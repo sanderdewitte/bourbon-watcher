@@ -5,6 +5,7 @@ RUN gem install listen
 RUN gem install sass --no-user-install
 RUN gem install bourbon
 RUN gem install neat
+RUN gem install bitters
 VOLUME /src
 WORKDIR /src
 ENTRYPOINT [ "sass" ]
