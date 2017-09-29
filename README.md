@@ -1,6 +1,3 @@
-# bourbon-watcher
-Docker container for watching and processing Sass source code changes to CSS using Bourbon
-
 # Bourbon "watcher" docker container
 
 Compiles sass or scss files using [Bourbon, the lightweight mixin library for Sass](http://bourbon.io/).
